@@ -1,0 +1,15 @@
+<suite name="group Suite">
+	<test name="group test test">
+		<classes>
+			<class name="com.seleniumTests.GroupTests">
+				<groups>
+					<run>
+						<include name="sanity"> </include>
+					</run>
+				</groups>
+			</class>
+		</classes>
+	
+	</test>
+
+</suite>

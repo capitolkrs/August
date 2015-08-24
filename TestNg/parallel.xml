@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="parallel Test suite" parallel="classes" tread-count="2">
+<test name="Sanity test"
+
+<classes>
+<class name="com.seleniumTests.Class2"/>
+<class name="com.seleniumTests.Class1"/>
+</classes>
+
+></test>
+
+
+
+</suite>

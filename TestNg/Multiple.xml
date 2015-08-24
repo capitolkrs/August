@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Ecommerce Suite">
+<test name="Sanity Tests">
+<classes>
+<class name="com.seleniumTests.Class2"/>
+<class name="com.seleniumTests.Class1"/>
+</classes>
+
+</test>
+
+</suite>
